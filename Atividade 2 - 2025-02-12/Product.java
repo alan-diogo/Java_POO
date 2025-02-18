@@ -15,6 +15,6 @@ public class Product {
     }
     @Override
     public String toString() {
-        return "Ex2_POO.Product name: " + brand + ", Price: " + price;
+        return "Product name: " + brand + ", Price: " + price;
     }
 }
